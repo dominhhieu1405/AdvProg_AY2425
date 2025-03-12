@@ -2,6 +2,7 @@
 #include <string>
 #include <cmath>
 #include "guessit.h"
+#include "guessit.cpp"
 
 
 
